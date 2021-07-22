@@ -1,2 +1,2 @@
 # Text-to-Audio
-Simple python program to convert text into audio
+Simple python program to convert text into audio file
